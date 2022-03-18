@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tpmodul4_1302204078
+namespace tpmodul4_130
 {
     internal class Program
     {
@@ -13,6 +13,8 @@ namespace tpmodul4_1302204078
             HaloGeneric<string> halo = new HaloGeneric<string>();
             String x = "Aditya Nur Hidayatullah";
             halo.SapaUser(x);
+            DataGeneric<String> data = new DataGeneric<string>("1302204078");
+            data.PrintData();
         }
     }
     public class HaloGeneric<T>
@@ -20,6 +22,18 @@ namespace tpmodul4_1302204078
         public void SapaUser(T x)
         {
             Console.WriteLine("halo" + x);
+        }
+    }
+    public class DataGeneric<T>
+    {
+        private T data;
+        public DataGeneric(T data)
+        {
+            this.data = data;
+        }
+        public void PrintData()
+        {
+            Console.WriteLine("data yang tersimpan adalah: " + this.data);
         }
     }
 }
