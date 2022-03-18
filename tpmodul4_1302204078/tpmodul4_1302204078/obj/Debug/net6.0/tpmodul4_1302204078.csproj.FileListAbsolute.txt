@@ -1,0 +1,15 @@
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\bin\Debug\net6.0\tpmodul4_1302204078.exe
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\bin\Debug\net6.0\tpmodul4_1302204078.deps.json
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\bin\Debug\net6.0\tpmodul4_1302204078.runtimeconfig.json
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\bin\Debug\net6.0\tpmodul4_1302204078.dll
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\bin\Debug\net6.0\tpmodul4_1302204078.pdb
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\tpmodul4_1302204078.csproj.AssemblyReference.cache
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\tpmodul4_1302204078.GeneratedMSBuildEditorConfig.editorconfig
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\tpmodul4_1302204078.AssemblyInfoInputs.cache
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\tpmodul4_1302204078.AssemblyInfo.cs
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\tpmodul4_1302204078.csproj.CoreCompileInputs.cache
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\tpmodul4_1302204078.dll
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\refint\tpmodul4_1302204078.dll
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\tpmodul4_1302204078.pdb
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\tpmodul4_1302204078.genruntimeconfig.cache
+F:\kuliah\tpmodul4_1302204078\tpmodul4_1302204078\tpmodul4_1302204078\obj\Debug\net6.0\ref\tpmodul4_1302204078.dll
